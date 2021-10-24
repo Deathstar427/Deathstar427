@@ -1,7 +1,6 @@
 
-### Hi there 👋, I'm Priyanshu Sharma
-#### I am GitHub Readme Generator's creator
-![Hey](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi 👋, I'm Priyanshu Sharma :octocat:</h1>
+![Hey](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 <h3 align="center">A Computer Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deathstar427&label=Profile%20views&color=0e75b6&style=flat" alt="deathstar427" /> </p>
