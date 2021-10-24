@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma :octocat:</h1>
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <h3 align="center">A Computer Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deathstar427&label=Profile%20views&color=0e75b6&style=flat" alt="deathstar427" /> </p>
