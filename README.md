@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Priyanshu Sharma :octocat:</h1>
-![Hey](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+<h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A Computer Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deathstar427&label=Profile%20views&color=0e75b6&style=flat" alt="deathstar427" /> </p>
@@ -38,6 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deathstar427&show_icons=true&locale=en" alt="deathstar427" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathstar427&" alt="deathstar427" /></p>
+
 
 
 <!--
