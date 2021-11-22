@@ -35,8 +35,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deathstar427&show_icons=true&locale=en" alt="deathstar427" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathstar427&" alt="deathstar427" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathstar427" alt="deathstar427" /></a> </p>
+<details>
+  <summary> Github trophies </summary>
+      <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathstar427" alt="deathstar427" />       </a> </p>
+</details>
 
 
 
